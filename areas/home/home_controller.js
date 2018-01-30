@@ -1,8 +1,3 @@
-/*
-*创建者             石国庆
-*创建时间           2016.2.25
-*文件功能           app的首页
- */
 
 // 首页面
 angular.module('home.controller', [])

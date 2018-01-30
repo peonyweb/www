@@ -10,6 +10,6 @@ angular.module('tabs.route', ['tabs.controller'])
         templateUrl: 'areas/tab/tabs.html',
         controller:'TabsCtrl'
       })
-
+//这是peony现在改的
 
   });
